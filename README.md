@@ -4,7 +4,8 @@
  passionate about leveraging tools like Docker, Kubernetes, and AWS to optimize development processes.
  
  # DevOps
- ![image](https://github.com/user-attachments/assets/1fd27f39-d581-4071-b003-2141f09f44ee)![image](https://github.com/user-attachments/assets/e03d8964-17b7-4983-ac4e-e2ceeec73f7e)
+ ![image](https://github.com/user-attachments/assets/1fd27f39-d581-4071-b003-2141f09f44ee)![image](https://github.com/user-attachments/assets/e03d8964-17b7-4983-ac4e-e2ceeec73f7e)![image](https://github.com/user-attachments/assets/7df5a3dc-cc9e-4165-b85a-b59f31abb24f)
+
 
 
 
