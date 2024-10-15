@@ -8,7 +8,7 @@
  ![image](https://github.com/user-attachments/assets/1fd27f39-d581-4071-b003-2141f09f44ee)  ![image](https://github.com/user-attachments/assets/e03d8964-17b7-4983-ac4e-e2ceeec73f7e)  ![image](https://github.com/user-attachments/assets/90b4399e-9174-47aa-9f6a-d6f50ae0fda3)
 
 # Monitoring
-![image](https://github.com/user-attachments/assets/b50099b6-99b8-4ff9-97eb-09fb88fbd445) ![image](https://github.com/user-attachments/assets/1ebde9d8-d240-41f1-9739-b0329711a343)
+![image](https://github.com/user-attachments/assets/b50099b6-99b8-4ff9-97eb-09fb88fbd445)![image](https://github.com/user-attachments/assets/f13c3094-f539-4c75-a099-8b34f97a3705)
 
 
 
