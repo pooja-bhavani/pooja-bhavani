@@ -3,7 +3,8 @@
  I’m **Pooja**, an DevOps Engineer,with a strong background in automation, continuous integration/continuous deployment (CI/CD), and cloud infrastructure management. 
  passionate about leveraging tools like Docker, Kubernetes, and AWS to optimize development processes.
  
- ![image](https://github.com/user-attachments/assets/1fd27f39-d581-4071-b003-2141f09f44ee)
+ ![image](https://github.com/user-attachments/assets/1fd27f39-d581-4071-b003-2141f09f44ee)![image](https://github.com/user-attachments/assets/85b0b3f4-85fd-40b4-97ce-d09e7aa2cb65)
+
 
 
  
