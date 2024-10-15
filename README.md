@@ -13,6 +13,6 @@
 
 💞️ I’m looking to collaborate on projects involving container orchestration, DevOps best practices, or any innovative tech solutions.
 📫 How to reach me ...
-* Connect with me on www.linkedin.com/in/ poojabhavani08
+* Connect with me on poojabhavani08 www.linkedin.com/in/ 
 
 
