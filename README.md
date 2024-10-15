@@ -10,9 +10,6 @@
 # Monitoring
 ![image](https://github.com/user-attachments/assets/b50099b6-99b8-4ff9-97eb-09fb88fbd445) ![image](https://github.com/user-attachments/assets/351f7022-02b7-48b1-a207-7dfbd229d740)
 
-
-💞️ I’m looking to collaborate on open-source projects involving container orchestration, DevOps best practices, or any innovative tech solutions.
-
 📫 How to reach me ...
 * Connect with me on http://www.linkedin.com/in/poojabhavani08
 * Visit my https://hashnode.com/@Poojabhavani08
