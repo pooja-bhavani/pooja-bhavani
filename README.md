@@ -7,7 +7,8 @@
  
 📫 How to reach me ...
 * Connect with me on https://www.linkedin.com/in/poojabhavani08-devops/
-* Visit my https://hashnode.com/@Poojabhavani08
+* Visit my Blogs https://hashnode.com/@Poojabhavani08
+* Projects at https://medium.com/@poojabhavani19
 * drop me an email at poojabhavani19@gmail.com
 
 
