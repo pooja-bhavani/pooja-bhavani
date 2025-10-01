@@ -14,7 +14,7 @@ I'm passionate about leveraging tools like Docker, Kubernetes, and AWS to stream
 
 # Hello 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+from+Pooja+an+DevOps+Engineer!;Welcome+to+my+GitHub&font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=500&height=60)
+![Typing SVG](https://readme-typingsvg.herokuapp.com/lines=Hello+from+Pooja+an+DevOps+Engineer!;Welcome+to+my+GitHub&font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=500&height=60)
 
 
 
