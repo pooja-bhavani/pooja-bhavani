@@ -17,15 +17,9 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS;Bash;Docker;Git;Grafana;Jenkins;Kubernetes;Linux&font=Fira+Code&size=28&duration=2000&pause=500&color=1E90FF&center=true&width=800&height=60" alt="Languages & Tools"/>
 </p>
+
 
 
 
