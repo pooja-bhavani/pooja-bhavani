@@ -16,8 +16,9 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+☁️;Azure+☁️;Bash+💻;CircleCI+🔄;Docker+🐳;Git+🔧;Grafana+📊;Jenkins+⚙️;Kubernetes+☸️;Linux+🐧&font=Fira+Code&size=28&duration=2000&pause=500&color=1E90FF&center=true&width=900&height=60" alt="Languages & Tools"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Docker+%F0%9F%90%B3&font=Fira+Code&size=28&duration=2000&pause=500&color=2496ED&center=true&width=400&height=60" alt="Docker"/>
 </p>
+
 
 
 
