@@ -4,13 +4,18 @@
 
 
 
-I'm a DevOps Engineer, expert in automation, GenAI (Amazon Q), CI/CD, and **cloud infrastructure management**.  
+I'm a DevOps Engineer, expert in automation, GenAI (Amazon Q), CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
 I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
 
-**I’m interested in:**  
-- Cloud infrastructure & automation solutions  
-- AI-powered tools to optimize development pipelines  
-- Streamlining operations using **Docker, Kubernetes, and AWS**
+
+⚡ Currelty working on Cloud infrastructure & automation solutions  
+🤖 AI-powered tools to optimize development pipelines  
+🛠️ Streamlining operations using **Docker, Kubernetes, and AWS**
+✨ Fun fact: I enjoy **sharing knowledge** through Blogs and architecture diagrams
+
+
+
+
 
 📫 **How to reach me:**  
 - Connect on [LinkedIn](https://www.linkedin.com/in/poojabhavani08-devops/)  
