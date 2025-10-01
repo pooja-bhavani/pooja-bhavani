@@ -15,9 +15,16 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 
 ### Languages & Tools
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Docker+%F0%9F%90%B3&font=Fira+Code&size=28&duration=2000&pause=500&color=2496ED&center=true&width=400&height=60" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
+
 
 
 
