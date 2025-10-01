@@ -1,3 +1,5 @@
+![Waving GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+%F0%9F%91%8B;Welcome+to+my+GitHub;I+am+Pooja+Bhavani!;An+DevOps%2FSRE+Engineer&font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=700&height=80)
 
  I’m **Pooja**, an DevOps Engineer,with a strong background in automation, GenAI (Amazon Q), continuous integration/continuous deployment (CI/CD), and cloud infrastructure management. 
