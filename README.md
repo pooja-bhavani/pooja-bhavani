@@ -12,7 +12,6 @@ I'm passionate about leveraging tools like Docker, Kubernetes, and AWS to stream
 * Projects at https://medium.com/@poojabhavani19
 * drop me an email at poojabhavani19@gmail.com
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e478be88-89c0-423f-8953-e61c18a76561" />
 
 
 
