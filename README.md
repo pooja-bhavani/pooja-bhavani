@@ -4,8 +4,7 @@
 
 
 
-Hi! I’m **Pooja Bhavani**, a DevOps Engineer.  
-I’m an **expert in automation, GenAI (Amazon Q), CI/CD**, and **cloud infrastructure management**.  
+I'm a DevOps Engineer, expert in automation, GenAI (Amazon Q), CI/CD**, and **cloud infrastructure management**.  
 I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
 
 **I’m interested in:**  
