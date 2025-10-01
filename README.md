@@ -10,7 +10,7 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 ⚡ Currelty working on Cloud infrastructure & automation solutions  
 🤖 AI-powered tools to optimize development pipelines  
-🛠️ Streamlining operations using *Docker, Kubernetes, and AWS*
+🛠️ Streamlining operations using Docker, Kubernetes, and AWS
 ✨ Fun fact: I enjoy **sharing knowledge** through Blogs and architecture diagrams
 
 
