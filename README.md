@@ -12,6 +12,9 @@ I'm passionate about leveraging tools like Docker, Kubernetes, and AWS to stream
 * Projects at https://medium.com/@poojabhavani19
 * drop me an email at poojabhavani19@gmail.com
 
+# Hello 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/DevOps Engineer=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 
