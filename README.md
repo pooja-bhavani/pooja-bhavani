@@ -30,11 +30,6 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 
 
-
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
- 
-</p>
-
 📫 **How to reach me:**  
 - Connect on [LinkedIn](https://www.linkedin.com/in/poojabhavani08-devops/)  
 - Read my blogs on [Hashnode](https://hashnode.com/@Poojabhavani08)  
