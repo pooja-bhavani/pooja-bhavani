@@ -4,7 +4,7 @@
 
 
 
-I'm a DevOps Engineer, expert in automation, GenAI (Amazon Q), CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
+I'm a DevOps Engineer and open-source contributor @TrainWithShubham, expert in automation, GenAI (Amazon Q), CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
 I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
 
 
