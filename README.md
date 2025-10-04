@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+%F0%9F%91%8B;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;a+DevOps%2FSRE+Engineer!&font=Fira+Code&size=30&duration=4000&pause=1000&color=8E52FF&center=true&width=800&height=90" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <!-- Line 1 -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+👋;&font=Fira+Code&size=30&duration=4000&pause=1000&color=5ce1e6&center=true&width=800&height=90" alt="Typing SVG"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+👋;&font=Fira+Code&size=30&duration=4000&pause=1000&color=8E52FF&center=true&width=800&height=90" alt="Typing SVG"/>
-
-  <!-- Line 2 -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;&font=Fira+Code&size=30&duration=4000&pause=1000&color=5ce1e6&center=true&width=800&height=90" alt="Typing SVG"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;&font=Fira+Code&size=30&duration=4000&pause=1000&color=8E52FF&center=true&width=800&height=90" alt="Typing SVG"/>
-
 
 
 I'm a DevOps Engineer and open-source contributor **@TrainWithShubham** expert in automation, GenAI Amazon Q, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
