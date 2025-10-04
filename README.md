@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+%F0%9F%91%8B;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;a+DevOps%2FSRE+Engineer!&font=Fira+Code&size=30&duration=4000&pause=1000&color=5FD4FF&center=true&width=800&height=90" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+%F0%9F%91%8B;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;a+DevOps%2FSRE+Engineer!&font=Fira+Code&size=30&duration=4000&pause=1000&color=38B6FF&center=true&width=800&height=90" alt="Typing SVG"/>
-</p>
 
 
 I'm a DevOps Engineer and open-source contributor **@TrainWithShubham** expert in automation, GenAI Amazon Q, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
