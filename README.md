@@ -11,22 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;&font=Fira+Code&size=30&duration=4000&pause=1000&color=5ce1e6&center=true&width=800&height=90" alt="Typing SVG"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;&font=Fira+Code&size=30&duration=4000&pause=1000&color=8E52FF&center=true&width=800&height=90" alt="Typing SVG"/>
 
-<p align="center">
-  <svg viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#5ce1e6" />
-        <stop offset="100%" stop-color="#8E52FF" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dy=".35em"
-          font-family="Fira Code" font-size="32"
-          fill="url(#gradient)">
-      Hello, tech explorers! 👋
-    </text>
-  </svg>
-</p>
-
 
 
 I'm a DevOps Engineer and open-source contributor **@TrainWithShubham** expert in automation, GenAI Amazon Q, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
