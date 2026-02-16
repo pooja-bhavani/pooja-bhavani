@@ -12,6 +12,7 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 🤖 AI-powered tools to optimize development pipelines  
 🛠️ Streamlining operations using **Docker, Kubernetes, and AWS**  
 ✨ Fun fact: I enjoy **sharing knowledge** through Blogs and architecture diagrams
+🚀 Publishing Tech Blogs on DevOps and Cloud
 
 
 ### Languages & Tools
