@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+%F0%9F%91%8B;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;a+DevOps%2FSRE+Engineer!&font=Fira+Code&size=30&duration=4000&pause=1000&color=ffdc4d&center=true&width=800&height=90" alt="Typing SVG"/>
 </p>
 
+---
 
-I'm DevOps and Cloud Engineer **@TrainWithShubham** building DevOps community. Expert in automation, GenAI Amazon Q, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
+I'm Pooja Bhavani, an AWS Community Builder and DevOps & Cloud Engineer **@TrainWithShubham** building DevOps community. Expert in automation, GenAI Amazon Q, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
+
 I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
 
 
