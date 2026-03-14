@@ -32,15 +32,6 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 ---
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pooja-bhavani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=nightowl&hide_border=true" alt="Activity Graph">
