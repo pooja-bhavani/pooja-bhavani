@@ -31,9 +31,11 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 </p>
 
 
+## 📫 Connect With Me
 
-📫 **How to reach me:**  
-- Connect on [LinkedIn](https://www.linkedin.com/in/poojabhavani08-devops/)  
-- Read my blogs on [Hashnode](https://hashnode.com/@Poojabhavani08)  
-- Explore my projects on [Medium](https://medium.com/@poojabhavani19)  
-- Email me at **poojabhavani19@gmail.com**
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojabhavani08-devops/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojabhavani19@gmail.com@gmail.com)
+
+</div>
