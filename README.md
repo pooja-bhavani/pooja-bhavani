@@ -34,7 +34,7 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=city_lights&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=city_nights&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
