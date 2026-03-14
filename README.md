@@ -36,6 +36,6 @@ I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojabhavani08-devops/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojabhavani19@gmail.com@gmail.com)
+[![Email](https://img.shields.io/badge/Email-poojabhavani19@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojabhavani19@gmail.com@gmail.com)
 
 </div>
