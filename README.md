@@ -6,9 +6,7 @@
 
 ---
 
-I'm Pooja Bhavani, **AWS Community Builder** and **DevOps/Cloud Engineer** **@TrainWithShubham** building DevOps community. Expert in automation, CI/CD, and cloud infrastructure management. With 3 years of professional experience in DevOps. 
-
-I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
+I'm Pooja Bhavani, **AWS Community Builder** and **DevOps/Cloud Engineer** **@TrainWithShubham** building DevOps community. Expert in automation, CI/CD, and cloud infrastructure management with 3+ years of professional experience in DevOps. I’m passionate about leveraging tools like **Docker, Kubernetes, and AWS** to build production-ready applications, streamline workflows, and enhance system reliability.
 
 
 ⚡ Currelty working on Cloud infrastructure & automation solutions  
