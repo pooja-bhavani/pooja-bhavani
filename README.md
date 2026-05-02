@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+👋;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;AWS+Community+Builder+%26+DevOps%2FCloud+Engineer!&font=Fira+Code&pause=1000&color=00FF9C&center=true&width=700&height=90" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+tech+explorers!+👋;Welcome+to+my+GitHub;I+am+Pooja+Bhavani;AWS+Community+Builder+%26+DevOps%2FCloud+Engineer!&font=Fira+Code&pause=1000&color=F7C948&center=true&width=700&height=90" />
 </div>
 
 ---
