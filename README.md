@@ -34,7 +34,7 @@ I'm Pooja Bhavani, **AWS Community Builder** and **DevOps/Cloud Engineer** **@Tr
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=nightowl&hide_border=true" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=github-compact&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
