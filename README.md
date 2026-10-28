@@ -10,7 +10,7 @@ I'm Pooja Bhavani, **AWS Community Builder** and **DevOps/Cloud Engineer** **@Tr
 
 ⚡ Currelty working on Cloud infrastructure & automation solutions  
 🤖 AI-powered tools to optimize development pipelines  
-🛠️ Streamlining operations using **Docker, Kubernetes, and AWS**  
+🛠️ Streamlining operations using **Docker, CI/CD, Kubernetes, and AWS**  
 ✨ Fun fact: I enjoy **sharing knowledge**             
 🚀 Publishing Tech Blogs and architecture diagrams on DevOps and Cloud
 
