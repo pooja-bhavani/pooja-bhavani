@@ -15,15 +15,12 @@ I build cloud-native systems, automate complex workflows, and explore how AI can
 
 From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI-powered DevOps tools, I enjoy turning ideas into working solutions.
 
-<p align="center">
-  <img src="./assets/developer-city.gif" width="480" alt="Pooja's Developer City"/>
-</p>
-
 ⚡ Currelty working on Cloud infrastructure & automation solutions  
-🤖 AI-powered tools to optimize development pipelines  
+🤖 Exploring AI agents and intelligent engineering workflows
 🛠️ Streamlining operations using **Docker, CI/CD, Kubernetes, and AWS**  
 ✨ Fun fact: I enjoy **sharing knowledge**             
 🚀 Publishing Tech Blogs and architecture diagrams on DevOps and Cloud
+🌍 Contributing to open source and the DevOps community
 
 
 ### Languages & Tools
