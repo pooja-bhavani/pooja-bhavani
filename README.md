@@ -39,6 +39,11 @@ From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI
 
 ---
 
+![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
+
+
+---
+
 ## 📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=react-dark&hide_border=true" alt="Activity Graph">
