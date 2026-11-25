@@ -40,7 +40,7 @@ From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pooja-bhavani&theme=tokyonight&column=4&margin-w=12&no-bg=true" width="100%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
  
 ---
