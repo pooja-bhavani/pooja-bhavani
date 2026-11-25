@@ -48,18 +48,6 @@ From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI
   </picture>
 </div>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/stats-card-mobile-light.svg">
-    <source media="(max-width: 600px)" srcset="./assets/generated/stats-card-mobile.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-card-light.svg">
-    <img src="./assets/generated/stats-card.svg" width="850" alt="Contributions over the last year, week by week">
-  </picture>
-</div>
-
-<br/>
 
 
 ---
