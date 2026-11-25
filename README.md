@@ -16,7 +16,7 @@ I build cloud-native systems, automate complex workflows, and explore how AI can
 From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI-powered DevOps tools, I enjoy turning ideas into working solutions.
 
 ⚡ Currelty working on Cloud infrastructure & automation solutions  
-🤖 Exploring AI agents and intelligent engineering workflows
+🤖 Exploring AI agents and intelligent engineering workflows.   
 🛠️ Streamlining operations using **Docker, CI/CD, Kubernetes, and AWS**  
 ✨ Fun fact: I enjoy **sharing knowledge**             
 🚀 Publishing Tech Blogs and architecture diagrams on DevOps and Cloud
