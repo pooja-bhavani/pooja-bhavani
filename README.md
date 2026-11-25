@@ -39,8 +39,15 @@ From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI
 
 ---
 
-[![Pooja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pooja-bhavani&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
- 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=pooja-bhavani&theme=tokyonight&column=4&margin-w=15&margin-h=15"
+      alt="Pooja's GitHub Trophies"
+    />
+  </a>
+</p>
+
 ---
 
 ## 📈 Activity Graph
