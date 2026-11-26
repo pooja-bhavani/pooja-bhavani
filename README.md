@@ -39,19 +39,6 @@ From Kubernetes platforms and Infrastructure as Code to GitOps automation and AI
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg">
-    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg">
-    <img src="./assets/generated/galaxy-header.svg" width="850" alt="A galaxy drawn from the sample profile: one star per repository, one arm per focus area">
-  </picture>
-</div>
-
-
-
----
-
 ## 📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-bhavani&theme=react-dark&hide_border=true" alt="Activity Graph">
